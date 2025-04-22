@@ -8,7 +8,7 @@
 🌱 I’m currently learning advanced backend & exploring scalable system design  
 💻 I love building full-stack apps with modern JS technologies  
 🚀 Recent projects:  
-&nbsp;&nbsp;&nbsp;&nbsp;• **PromptFlix** – AI Movie Search App using GPT-3.5  
+&nbsp;&nbsp;&nbsp;&nbsp;• **NetflixGenius** –Search Movies with AI  
 &nbsp;&nbsp;&nbsp;&nbsp;• **Learnify** – Full-stack LMS with Stripe & Clerk  
 &nbsp;&nbsp;&nbsp;&nbsp;• **College Placement Portal** – Real-time data & student resources  
 📫 Reach me at: **mayurghodaskar44@gmail.com**  
