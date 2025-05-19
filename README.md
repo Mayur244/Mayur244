@@ -8,9 +8,9 @@
 🌱 I’m currently learning advanced backend & exploring scalable system design  
 💻 I love building full-stack apps with modern JS technologies  
 🚀 Recent projects:  
-&nbsp;&nbsp;&nbsp;&nbsp;• **NetflixGenius** –Search Movies with AI  
-&nbsp;&nbsp;&nbsp;&nbsp;• **Learnify** – Full-stack LMS with Stripe & Clerk  
 &nbsp;&nbsp;&nbsp;&nbsp;• **College Placement Portal** – Real-time data & student resources  
+&nbsp;&nbsp;&nbsp;&nbsp;• **Learnify** – Full-stack LMS with Stripe & Clerk  
+&nbsp;&nbsp;&nbsp;&nbsp;• **NetflixGenius** – Search Movies with AI  
 📫 Reach me at: **mayurghodaskar44@gmail.com**  
 🌐 Portfolio: [View Portfolio](https://portfolio-mayur-ghodaskars-projects.vercel.app/)  
 📄 Resume: [View Resume](https://drive.google.com/file/d/1qs8HyBUYkVWKcGMpkF7YCXCnli_t2-o4/view?usp=drive_link)
@@ -43,6 +43,10 @@
   <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40"/></a>
   <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
+  <a href="https://wordpress.org/"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="40" height="40"/></a>
+  <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
   <a href="https://vercel.com/"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/></a>
 </p>
