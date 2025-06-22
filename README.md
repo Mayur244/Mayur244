@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• **NetflixGenius** – Search Movies with AI  
 📫 Reach me at: **mayurghodaskar44@gmail.com**  
 🌐 Portfolio: [View Portfolio](https://personal-portfolio-topaz-six-41.vercel.app/)  
-📄 Resume: [View Resume](https://drive.google.com/file/d/1qs8HyBUYkVWKcGMpkF7YCXCnli_t2-o4/view?usp=drive_link)
+📄 Resume: [View Resume](https://drive.google.com/file/d/1pf2cgV5dw7VOGRBb9VlkrAwQ_xd1O8mh/view?usp=drive_link)
 
 ---
 
@@ -38,8 +38,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
   <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
   <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
   <a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40"/></a>
 </p>
 
@@ -52,7 +50,6 @@
   <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40"/></a>
   <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
-  <a href="https://wordpress.org/"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="40" height="40"/></a>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
   <a href="https://vercel.com/"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/></a>
   <a href="https://developer.chrome.com/docs/devtools/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" height="40" title="Chrome DevTools"/></a>
