@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• **Learnify** – Full-stack LMS with Stripe & Clerk  
 &nbsp;&nbsp;&nbsp;&nbsp;• **NetflixGenius** – Search Movies with AI  
 📫 Reach me at: **mayurghodaskar44@gmail.com**  
-🌐 Portfolio: [View Portfolio](https://portfolio-mayur-ghodaskars-projects.vercel.app/)  
+🌐 Portfolio: [View Portfolio](https://personal-portfolio-topaz-six-41.vercel.app/)  
 📄 Resume: [View Resume](https://drive.google.com/file/d/1qs8HyBUYkVWKcGMpkF7YCXCnli_t2-o4/view?usp=drive_link)
 
 ---
