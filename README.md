@@ -7,10 +7,7 @@
 
 🌱 I’m currently learning advanced backend & exploring scalable system design  
 💻 I love building full-stack apps with modern JS technologies  
-🚀 Recent projects:  
-&nbsp;&nbsp;&nbsp;&nbsp;• **College Placement Portal** – Real-time data & student resources  
-&nbsp;&nbsp;&nbsp;&nbsp;• **Learnify** – Full-stack LMS with Stripe & Clerk  
-&nbsp;&nbsp;&nbsp;&nbsp;• **NetflixGenius** – Search Movies with AI  
+
 📫 Reach me at: **mayurghodaskar44@gmail.com**  
 🌐 Portfolio: [View Portfolio](https://personal-portfolio-topaz-six-41.vercel.app/)  
 📄 Resume: [View Resume](https://drive.google.com/file/d/1pf2cgV5dw7VOGRBb9VlkrAwQ_xd1O8mh/view?usp=drive_link)
