@@ -10,7 +10,7 @@
 
 📫 Reach me at: **mayurghodaskar44@gmail.com**  
 🌐 Portfolio: [View Portfolio](https://personal-portfolio-topaz-six-41.vercel.app/)  
-📄 Resume: [View Resume](https://drive.google.com/file/d/1pf2cgV5dw7VOGRBb9VlkrAwQ_xd1O8mh/view?usp=drive_link)
+📄 Resume: [View Resume](https://drive.google.com/file/d/1q7qc_r_z7SM6jcqZTzJpKvHZlD-Ijt-3/view)
 
 ---
 
